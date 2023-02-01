@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/univpdf/static/js/main.3096cee6.js",
+    "main.js": "/univpdf/static/js/main.e0313fbe.js",
     "index.html": "/univpdf/index.html",
-    "main.3096cee6.js.map": "/univpdf/static/js/main.3096cee6.js.map"
+    "main.e0313fbe.js.map": "/univpdf/static/js/main.e0313fbe.js.map"
   },
   "entrypoints": [
-    "static/js/main.3096cee6.js"
+    "static/js/main.e0313fbe.js"
   ]
 }
